@@ -9,4 +9,12 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="addgametitle">Title</string>
+    <string name="platformaddgame">Platform</string>
+    <string name="dayaddgame">Day</string>
+    <string name="monthaddgame">Month</string>
+    <string name="yearaddgame">Year</string>
+    <string name="delete_all_games">Deleteall</string>
+    <string name="titleaddgamepage">Add Game</string>
+    <string name="titlegamepage">Game Backlog</string>
 </resources>
